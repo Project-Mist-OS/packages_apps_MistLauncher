@@ -8,4 +8,6 @@
     <!-- Application name -->
     <string name="mist_app_name" translatable="false">MistLauncher</string>
 
+    <!-- Folder titles -->
+    <string name="google_folder_title" translatable="false">Google</string>
 </resources>
